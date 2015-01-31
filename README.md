@@ -4,7 +4,7 @@ Per a proposar un projecte per al 2016, haureu de procedir de la següent manera
 
 ```git clone git@github.com:phpcat/Proj16.git```
 
-Amb un programa com per exemple el [SourceTree](http://www.sourcetreeapp.com/) configurar el flux [Git Flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) amb els valors per omissió i tornar a pitjar el botó **Git Flow** per iniciar una *feature* que tindrà per nom el nom del repositori final si s'aprova la seva execució.
+Amb un programa com per exemple el [SourceTree](http://www.sourcetreeapp.com/) configurar el flux [Git Flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) amb els valors per omissió i tornar a pitjar el botó **Git Flow** per iniciar una *feature* pitjant el botó **Start a New Feature** que tindrà per nom el nom del repositori final si s'aprova la seva execució. **No feu mai un merge a develop!**
 
 Un cop fet això, modifiqueu aquest arxiu README.md explicant el projecte i estimant la dedicació necessaria en "tardes" (unitats de dues hores efectives) i feu push de la vostra branca.
 
