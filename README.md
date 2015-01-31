@@ -1,6 +1,6 @@
 #Projectes 2016
 
-Per a proposar un projecte per al 2016, haureu de procedir de la següent manera:
+Per a proposar un projecte per al curs que va de l'inici de la primavera del 2015 a la fi de l'hivern del 2016, haureu de procedir de la següent manera:
 
 ```git clone git@github.com:phpcat/Proj16.git```
 
