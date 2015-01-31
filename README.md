@@ -4,9 +4,11 @@ Per a proposar un projecte per al curs que va de l'inici de la primavera del 201
 
 ```git clone git@github.com:phpcat/Proj16.git```
 
-Amb un programa com per exemple el [SourceTree](http://www.sourcetreeapp.com/) configurar el flux [Git Flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) amb els valors per omissió i tornar a pitjar el botó **Git Flow** per iniciar una *feature* pitjant el botó **Start a New Feature** que tindrà per nom el nom del repositori final si s'aprova la seva execució. **No feu mai un merge a develop!**
+Amb un programa com per exemple el [SourceTree](http://www.sourcetreeapp.com/) configurar el flux [Git Flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) amb els valors per omissió i tornar a pitjar el botó **Git Flow** per iniciar una *feature* pitjant el botó **Start a New Feature** que tindrà per nom el nom del repositori final si s'aprova la seva execució. **No feu mai un merge a develop ;-)**
 
-Un cop fet això, modifiqueu aquest arxiu README.md explicant el projecte i estimant la dedicació necessaria en "tardes" (unitats de dues hores efectives) i feu push de la vostra branca.
+Un cop fet això, modifiqueu aquest arxiu README.md explicant el projecte amb el màxim detall possible i ben definides les iteracions.
+
+L'arxiu **estimacio** contindrà una única línia amb el valor numéric del número de "tardes" estimades.
 
 Qui estigui interessat en el projecte i vulgui donar suport, afegirà un arxiu de mateix nom que el seu perfil d'usuari a la carpeta *suports* on la primera línia serà, únicament, el valor numéric del número de "tardes" compromeses.
 
