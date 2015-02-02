@@ -1,18 +1,7 @@
-#Projectes 2016
+#PHP de la manera correcta
 
-Per a proposar un projecte per al curs que va de l'inici de la primavera del 2015 a la fi de l'hivern del 2016, haureu de procedir de la següent manera:
+Es tracta de traduir la plana [PHP the right way](http://www.phptherightway.com/) per tal de facilitar l'entrada de noves persones al món de la programació en PHP. És un document molt interessant, també d'utilitat per a veterans, tot i que per aquest perfil, la barrera lingüística, almenys a nivell de lectura, no és cap impediment i no és tant útil l'esforç.
 
-```git clone git@github.com:phpcat/Proj16.git```
+El document està separat en 18 seccions, algunes molt senzilles de traduïr i d'altres no tant, però amb 20 "tardes" tindrem més que suficient per traduir, complementar i coordinar la feina.
 
-Amb un programa com per exemple el [SourceTree](http://www.sourcetreeapp.com/) configurar el flux [Git Flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) amb els valors per omissió i tornar a pitjar el botó **Git Flow** per iniciar una *feature* pitjant el botó **Start a New Feature** que tindrà per nom el nom del repositori final si s'aprova la seva execució. **No feu mai un merge a develop ;-)**
-
-Un cop fet això, modifiqueu aquest arxiu README.md explicant el projecte amb el màxim detall possible i ben definides les iteracions.
-
-L'arxiu **estimacio** contindrà una única línia amb el valor numéric del número de "tardes" estimades.
-
-Qui estigui interessat en el projecte i vulgui donar suport, afegirà un arxiu de mateix nom que el seu perfil d'usuari a la carpeta *suports* on la primera línia serà, únicament, el valor numéric del número de "tardes" compromeses.
-
-Cada membre disposa d'un màxim de 40 "tardes" a l'any. La dedicació final podrà ser superior, però mai inferior a la compromesa.
-
-Per a poder crear un projecte o donar-hi suport, heu de pertayer al grup de [developers](https://github.com/orgs/phpcat/teams/developers) de l'organització github [PHP.cat](https://github.com/phpcat). Podeu sol·licitar l'alta al fil [Sol·licituds d'alta 2015](https://github.com/phpcat/phpcat/issues/2).
-
+El procés de traducció serà seqüencial, a repartir cada tema entre els supporters del projecte.
