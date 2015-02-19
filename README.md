@@ -1,5 +1,8 @@
 #PHP de la manera correcta. Traducció al català de PHP the right way.
 
+#Projecte aprovat, seguiu-lo a:
+###[https://github.com/phpcat/PHPdeLaManeraCorrecta](https://github.com/phpcat/PHPdeLaManeraCorrecta)
+
 Es tracta de traduir la plana [PHP the right way](http://www.phptherightway.com/) per tal de facilitar l'entrada de noves persones al món de la programació en PHP. És un document molt interessant, també d'utilitat per a veterans, tot i que per aquest perfil, la barrera lingüística, almenys a nivell de lectura, no és cap impediment i no és tant útil l'esforç.
 
 El document està separat en 18 seccions, algunes molt senzilles de traduïr i d'altres no tant, però amb 20 "tardes" tindrem més que suficient per traduir, complementar i coordinar la feina.
