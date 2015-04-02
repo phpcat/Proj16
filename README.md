@@ -16,3 +16,13 @@ Cada membre disposa d'un màxim de 40 "tardes" a l'any. La dedicació final podr
 
 Per a poder crear un projecte o donar-hi suport, heu de pertayer al grup de [developers](https://github.com/orgs/phpcat/teams/developers) de l'organització github [PHP.cat](https://github.com/phpcat). Podeu sol·licitar l'alta al fil [Sol·licituds d'alta 2015](https://github.com/phpcat/phpcat/issues/2).
 
+## Elcodi
+
+Quin gust poder explicar, per fi, què és aquest projecte en la seva llengua materna.
+Em presento. El meu nom és Marc Morera, sóc de Barcelona i actualment lidero un projecte anomenat Elcodi. Per qui no ens conegui, Elcodi és una implementació OpenSource per a projectes E-commerce basada en Symfony.
+
+Vam nèixer a Barcelona a finals de l'any 2013 i actualment estem tancant versió estable.
+
+Podeu veure el repositori a [`elcodi/elcodi`](https://github.com/elcodi/elcodi) i a [`elcodi/bamboo`](https://github.com/elcodi/bamboo). Bamboo és una implementació base de un e-commerce 100% funcional sobre els components i bundles de Elcodi.
+
+El tema és que aquest projecte estarà en molts idiomes, i un dels que vull tenir més present és el Català. Ja tenim en compte la traducció al català de tota la botiga, però durant l'evolució del projecte, i a mesura que es vagi fent gran, l'idea és que algú s'encarregui de que tot el projecte tingui el caràcter català que es mereix :)
